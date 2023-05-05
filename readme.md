@@ -1,4 +1,4 @@
-# Password Generator 🔐💪
+# Password Crafter 🔐💪
 
 This is a simple GUI application that generates strong and secure passwords with custom settings based on the user's input. The user can choose the length of the password, which types of characters to include (uppercase, lowercase, special characters, and numbers), and the number of passwords to generate.
 
@@ -27,6 +27,10 @@ pip install -r requirements.txt
 - User can select which types of characters to include (uppercase, lowercase, special characters, and numbers)
 - User can generate multiple passwords at once
 - User can copy the generated password(s) to the clipboard
+
+## App Preview
+
+![myFile5-6-2023_120935_AM](https://user-images.githubusercontent.com/112799156/236548955-c357721a-70dd-41a2-966d-a753264ace14.gif)
 
 ## Contributing 👨‍💻
 
