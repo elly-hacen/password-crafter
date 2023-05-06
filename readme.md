@@ -30,7 +30,7 @@ pip install -r requirements.txt
 
 ## App Preview
 
-![myFile5-6-2023_120935_AM](https://user-images.githubusercontent.com/112799156/236548955-c357721a-70dd-41a2-966d-a753264ace14.gif)
+https://user-images.githubusercontent.com/112799156/236598746-bbdd0ad6-930c-49ea-a528-f0244fcee88c.mp4
 
 ## Contributing 👨‍💻
 
