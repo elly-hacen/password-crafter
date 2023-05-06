@@ -37,7 +37,7 @@ class App(CTk):
         label_rely_values = [0.08, 0.15, 0.21]
 
         for i in range(len(label_texts)):
-            label = Label(master=self, text=label_texts[i], font=('DIN Condensed Web', label_sizes[i]))
+            label = Label(master=self, text=label_texts[i], font=('DIN Condensed Web', label_sizes[i]), text_color="#f2e7fe")
             label.get_place(relx=label_relx_values[i], rely=label_rely_values[i])
 
 
